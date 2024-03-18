@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.enter_btn{
+    background: #E17A00 0% 0% no-repeat padding-box;
+    box-shadow: 0px 6px 0px #B86400;
+    border: 2px solid #7E4500;
+    border-radius: 1em;
+
+    text-align: center;
+    padding: 10px 60px;
+    color: #fff;    
+}
+
+.enter_btn:hover{
+    background: #A25800 0% 0% no-repeat padding-box;
+    box-shadow: 0px 6px 0px #532D00;
+    border: 2px solid #7E4500;
+    color: #ccc;
+}
+
+.enter_btn:active{
+    background: #A25800 0% 0% no-repeat padding-box;
+    box-shadow: 0px 6px 0px #532D00;
+    border: 2px solid #7E4500;
+    color: #ccc;
+}
